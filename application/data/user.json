@@ -1,0 +1,74 @@
+[{
+        "user_id": "5968dd23fc13ae04d9000001",
+        "user_name": "Colby College",
+        "user_username": "colby_college",
+        "user_email": "colby_college@mail.com",
+        "user_password": "12345678",
+        "user_type": "college",
+        "discount": {
+            "SPM": {
+                "discount_type": "for",
+                "on": "3",
+                "to": "2"
+            }
+        }
+    }, {
+        "user_id": "5968dd23fc13ae04d9000002",
+        "user_name": "Waleed",
+        "user_username": "waleed",
+        "user_email": "waleed@mail.com",
+        "user_password": "12345678",
+        "user_type": "student",
+        "discount": {
+            "PT3": {
+                "discount_type": "drop",
+                "percent": "7.120963497321899",
+                "onward": "1"
+            }
+        }
+    }, {
+        "user_id": "5968dd23fc13ae04d9000003",
+        "user_name": "Tenby Schools",
+        "user_username": "tenby_schools",
+        "user_email": "tenby_schools@mail.com",
+        "user_password": "12345678",
+        "user_type": "school",
+        "discount": {
+            "LPUPSR": {
+                "discount_type": "drop",
+                "percent": "3.7975644953036785",
+                "onward": "4"
+            }
+        }
+    }, {
+        "user_id": "5968dd23fc13ae04d9000004",
+        "user_name": "Sunway University",
+        "user_username": "sunway_university",
+        "user_email": "sunway_university@mail.com",
+        "user_password": "12345678",
+        "user_type": "university",
+        "discount": {
+            "SPM": {
+                "discount_type": "for",
+                "on": "5",
+                "to": "4"
+            },
+            "PT3": {
+                "discount_type": "drop",
+                "percent": "4.024892411529769",
+                "onward": "1"
+            },
+            "LPUPSR": {
+                "discount_type": "drop",
+                "percent": "1.2658548317678928",
+                "onward": "3"
+            }
+        }
+    }, {
+        "user_id": "5968dd23fc13ae04d9000005",
+        "user_name": "Default",
+        "user_username": "default",
+        "user_email": "default@mail.com",
+        "user_password": "12345678",
+        "user_type": "default"
+    }]

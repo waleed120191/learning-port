@@ -1,0 +1,16 @@
+[{
+  "product_id" : "SPM", 
+  "product_name": "Sijil Pelajaran Malaysia",
+  "product_cost": "269.99",
+  "product_shortDecription" : "This product is Sijil Pelajaran Malaysia, It cost $269.99."
+}, {
+  "product_id" : "PT3", 
+  "product_name": "Penilaian Menengah Rendah",
+  "product_cost": "322.99",
+  "product_shortDecription" : "This product is Penilaian Menengah Rendah, It cost $322.99."
+}, {
+  "product_id" : "LPUPSR", 
+  "product_name": "Lower Primary and Upper Primary",
+  "product_cost": "394.99",
+  "product_shortDecription" : "This product is Lower Primary & Upper Primary, It cost $394.99."
+}]
